@@ -19,3 +19,5 @@ It allows you to draw freely with a pen or eraser, change colors and brush size,
 - CSS3
 - Vanilla JavaScript
 - Canvas API
+
+<img src="Timer/pictures/Timer.png" alt="Timer preview" width="500">
