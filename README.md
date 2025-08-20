@@ -20,4 +20,4 @@ It allows you to draw freely with a pen or eraser, change colors and brush size,
 - Vanilla JavaScript
 - Canvas API
 
-<img src="Timer/pictures/Timer.png" alt="Timer preview" width="500">
+<img src="Drawing App/pictures/DrawingApp.png" alt="Drawing App preview" width="500">
